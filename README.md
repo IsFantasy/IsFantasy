@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @IsFantasy
+- 👀 I’m interested in video game programming.
+- 🌱 I’m currently learning learning Java.
+- 💞️ I’m looking to collaborate on java projects in general.
+- 📫 How to reach me: Via email, antoniopaiva2608@gmail.com
